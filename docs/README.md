@@ -16,3 +16,17 @@ print(square.area(10)) # 100
 square.perimeter() # периметр квадрата со стороной r
 print(square.perimeter(10)) # 40
 ```
+
+```py
+commit 2d0542d26d9ab5c36f8305c77bebf51eb1eafbb3 (HEAD -> master)
+Author: Kirill Zubarev <faketaggle@gmail.com>
+Date:   Sun Sep 28 22:55:58 2025 +0300
+
+    Добавлен readme
+
+commit f6bd7e1025e4ce3a3c8816f063ac7a816f4a60a1
+Author: Kirill Zubarev <faketaggle@gmail.com>
+Date:   Sun Sep 28 22:46:57 2025 +0300
+
+    Документация к circle.py & square.py
+```
